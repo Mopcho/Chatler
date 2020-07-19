@@ -1,0 +1,23 @@
+{
+  "name": "chatler",
+  "version": "1.0.0",
+  "description": "A chat room",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mopcho/Chatler.git"
+  },
+  "author": "Mopcho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mopcho/Chatler/issues"
+  },
+  "homepage": "https://github.com/Mopcho/Chatler#readme",
+  "devDependencies": {
+    "electron": "^9.1.0"
+  }
+}
